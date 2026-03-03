@@ -70,9 +70,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amberarya7-crypto&show_icons=true&theme=tokyonight&border_radius=15&border_color=00f7ff&title_color=00f7ff&icon_color=00f7ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amberarya7-crypto&show_icons=true&theme=tokyonight&border_radius=15&border_color=00f7ff&title_color=00f7ff&icon_color=00f7ff&cache_seconds=1800" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberarya7-crypto&layout=compact&theme=tokyonight&border_radius=15&border_color=00f7ff&title_color=00f7ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberarya7-crypto&layout=compact&theme=tokyonight&border_radius=15&border_color=00f7ff&title_color=00f7ff&cache_seconds=1800&langs_count=6" height="165"/>
 
 <br/><br/>
 
