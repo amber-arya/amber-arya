@@ -110,7 +110,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amber%20Arya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amber-arya)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-amber-arya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amber-arya)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amber-arya)
 &nbsp;
 [![Twitter / X](https://img.shields.io/badge/Twitter-amber__arya785-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/amber_arya785)
 
