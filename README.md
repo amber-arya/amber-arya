@@ -78,12 +78,8 @@ Exploring how AI can improve productivity and development workflows
 </tr>
 </table>
 
-<br>
-
-<img src="https://img.shields.io/badge/Groq_API-111827?style=for-the-badge&logo=openai&logoColor=white" />
-
 </div>
----
+
 
 <h2 align="center">🚀 Current Projects</h2>
 
