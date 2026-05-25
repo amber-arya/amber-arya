@@ -136,5 +136,5 @@ Exploring how AI can improve productivity and development workflows
 ---
 
 <p align="center">
-✨ Always Learning • Always Building ✨
+ Always Learning • Always Building 
 </p>
