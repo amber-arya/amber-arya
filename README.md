@@ -11,7 +11,7 @@ CSE Student • AI/ML Enthusiast • Frontend Developer
 </h3>
 
 <p align="center">
-Building clean web experiences and exploring modern AI technologies 🚀
+Building clean web experiences and exploring modern AI technologies 
 </p>
 
 ---
